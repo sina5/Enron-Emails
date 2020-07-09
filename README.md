@@ -16,7 +16,7 @@ your local machine for development and testing purposes.
 
 ## Running the tests
 
-This project includes "enron_mail.ipynb" notebook that includes the codes and documentation of exploring the dataset.
+The main script is "enron_mail.ipynb" notebook that includes the codes and documentation of exploring the dataset.
 
 ## Authors
 
