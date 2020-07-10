@@ -16,6 +16,8 @@ Install Jupyter Notebook: https://jupyter.org/install
 
 A preview HTML file ("enron_mail - preview.html") is also included in the main folder. However, some Jupyter cell outputs are cleared in the HTML file for better viewing experience.
 
+**Please note that Github preview does not show the interactive visualization in this notebook and it should be run locally.**
+
 ## Running the tests
 
 After installing Jyputer notebook, using a command line, change the working directory to location of the folder enclosing "enron_mail.ipynb". Then type:
